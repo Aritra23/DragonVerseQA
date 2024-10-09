@@ -1,4 +1,4 @@
-{
+[{
     "context": {
         "episode": "Game of Thrones Season 8, Episode 1: Winterfell",
         "summary": "In the final season premiere, Jon Snow and Daenerys Targaryen arrive at Winterfell with their combined armies. The episode sees a range of reunions and introduces tensions between characters, especially regarding Daenerys’ leadership and the impending threat. As the North prepares for war against the Night King, secrets about Jon's lineage come to light, threatening alliances.",
@@ -497,15 +497,15 @@
             "answer": "Jon’s revelation creates tension with Daenerys and political uncertainty among his siblings regarding loyalty and inheritance."
         },
         {
-            "question": "How does Missandei's capture affect Daenerys' strategy?"
+            "question": "How does Missandei's capture affect Daenerys' strategy?",
             "answer": "Daenerys becomes more aggressive in her tactics after Missandei is beheaded by Cersei, seen as an act pushing her toward vengeance."
         },
         {
-            "question": "How does Sansa Stark view the ongoing conflict for the Iron Throne?"
+            "question": "How does Sansa Stark view the ongoing conflict for the Iron Throne?",
             "answer": "Sansa remains skeptical, continuing to prioritize Northern independence and expressing caution regarding Daenerys' volatile responses."
         },
         {
-            "question": "What is Arya Stark's decision regarding traveling to King's Landing, and who does she accompany?"
+            "question": "What is Arya Stark's decision regarding traveling to King's Landing, and who does she accompany?",
             "answer": "Arya decides to head to King's Landing to confront Cersei, traveling with Sandor Clegane who seeks his own confrontation with his brother."
         },
         {
@@ -620,7 +620,7 @@
             "answer": "The bells toll for surrender, but despite this, Daenerys ignites her fury with Drogon, continuing the assault in a moment of devastation."
         },
         {
-            "question": "What are Jon Snow's actions during the sack of King's Landing?"
+            "question": "What are Jon Snow's actions during the sack of King's Landing?",
             "answer": "Jon attempts to pull his troops back, trying to stop unnecessary violence, visibly disturbed by Daenerys' decisions."
         },
         {
@@ -628,11 +628,11 @@
             "answer": "Cersei and Jaime Lannister die together in the Red Keep as it collapses under the assault, their tragic end intertwined."
         },
         {
-            "question": "What catalyst prompts Arya Stark to abandon her mission to kill Cersei?"
+            "question": "What catalyst prompts Arya Stark to abandon her mission to kill Cersei?",
             "answer": "Arya decides to leave after witnessing the destruction and death around her, understanding that more life depends on survival than vengeance."
         },
         {
-            "question": "How does Tyrion Lannister attempt to mitigate destruction before the attack?"
+            "question": "How does Tyrion Lannister attempt to mitigate destruction before the attack?",
             "answer": "Tyrion attempts diplomatic appeals for surrender and releases Jaime, encouraging him to escape with Cersei."
         },
         {
@@ -644,11 +644,11 @@
             "answer": "Daenerys envisions reshaping societies for a 'better' rule, yet her methods display the descent into tyranny."
         },
         {
-            "question": "How does Sandor Clegane (The Hound) conclude his arc in this episode?"
+            "question": "How does Sandor Clegane (The Hound) conclude his arc in this episode?",
             "answer": "The Hound confronts and fights his brother, Gregor Clegane (The Mountain), leading to their mutual demise."
         },
         {
-            "question": "What is Jaime Lannister’s intention as he returns to King's Landing?"
+            "question": "What is Jaime Lannister’s intention as he returns to King's Landing?",
             "answer": "Jaime returns to King's Landing seeking to reunite with Cersei and attempts an escape, demonstrating unwavering loyalty."
         }
     ]
@@ -747,40 +747,41 @@
             "answer": "Jon Snow fatally stabs Daenerys, recognizing her potential for tyranny and obsession with her vision."
         },
         {
-            "question": "Who is chosen to rule Westeros after the overthrow of Daenerys?"
+            "question": "Who is chosen to rule Westeros after the overthrow of Daenerys?",
             "answer": "Bran Stark is selected as king by the lords of Westeros, in part due to his detached wisdom and neutrality."
         },
         {
-            "question": "What territory does Sansa Stark claim independence from in the episode's conclusion?"
+            "question": "What territory does Sansa Stark claim independence from in the episode's conclusion?",
             "answer": "Sansa claims independence for the North, declaring it a free kingdom with herself as its queen."
         },
         {
-            "question": "What realization does Arya Stark come to at the close of the series?"
+            "question": "What realization does Arya Stark come to at the close of the series?",
             "answer": "Arya decides to explore uncharted territories west of Westeros, intrigued by what lies beyond known maps."
         },
         {
-            "question": "What fate does Tyrion Lannister face for freeing his brother Jaime and his connection to Daenerys?"
+            "question": "What fate does Tyrion Lannister face for freeing his brother Jaime and his connection to Daenerys?",
             "answer": "Tyrion is imprisoned but ultimately selected to serve as Bran's Hand, a position leveraging his pragmatic and advisory skills."
         },
         {
-            "question": "How is Jon Snow's fate resolved after Daenerys' death?"
+            "question": "How is Jon Snow's fate resolved after Daenerys' death?",
             "answer": "Jon is sent to the Night's Watch as a political compromise, bridging peace and his own sense of belonging north."
         },
         {
-            "question": "What role does Bran Stark envision for Drogon the dragon after Daenerys' demise?"
+            "question": "What role does Bran Stark envision for Drogon the dragon after Daenerys' demise?",
             "answer": "Bran expresses interest in finding and locating Drogon, as part of understanding the larger world."
         },
         {
-            "question": "What becomes of the Iron Throne in the series finale?"
+            "question": "What becomes of the Iron Throne in the series finale?",
             "answer": "The Iron Throne is melted by Drogon in frustration and grief after finding Daenerys’ body, symbolizing the end of one era."
         },
         {
-            "question": "What choices do the remaining Stark siblings embrace for their respective futures?"
+            "question": "What choices do the remaining Stark siblings embrace for their respective futures?",
             "answer": "Jon returns beyond the Wall; Sansa reigns over an independent North; Arya explores new realms, expanding the Stark legacy."
         },
         {
-            "question": "How is audience sentiment reflected in the aftermath of character arcs and closure?"
+            "question": "How is audience sentiment reflected in the aftermath of character arcs and closure?",
             "answer": "Mixed reaction leaves viewers deliberating the connections, with emotional satisfaction paired against abrupt or absent resolutions."
         }
     ]
 }
+]
