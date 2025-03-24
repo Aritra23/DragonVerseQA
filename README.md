@@ -78,13 +78,16 @@ print("Answer:", dataset[0]["qa_pairs"][0]["answer"])
 
 ## **Evaluation Metrics**
 To assess QA model performance on DragonVerseQA, the following metrics can be used:
+
+- **F1-Score** (accuracy)
 - **BLEU Score** (lexical similarity)
 - **ROUGE-L Score** (recall-oriented phrase matching)
 - **Semantic Similarity (BERTScore)** (meaning preservation)
 - **Human Evaluation (fluency, coherence, and accuracy ratings)**
 
 ## **License & Citation**
-- **License**: [Specify License Here]
+
+- **License**: MIT
 - **Citation Format**:
 ```bibtex
 @article{lahiri2024dragonverseqaopendomainlongformcontextaware,
